@@ -14,12 +14,12 @@ WordPress 6.1.1 / PHP 7 or higher / CSS
 ![image](https://user-images.githubusercontent.com/76784342/215273448-89ca4eb7-d3e5-4736-ba9b-7f328a089c12.png)
 
 
-Installation process
+a)How to install the website on another new computer in detail 
 
 1-Download WordPress.zip and step.rf.gd-20230128-094242-5iww3y.wpress
 note : Make sure you have  hostig server locally like xamp or others
 
-2-uncompress wordpress files  in another folder(folder_name) in XAMPP\htdocs location 
+2-uncompress wordpress files  in another folder(folder_name) in XAMPP\htdocs location (c)Where to put files. ).
 
 3- open any browser write down localhost/folder_name after creating database in PHPadmin
 
@@ -38,5 +38,5 @@ After installation
 
 6- then import our site file step.rf.gd-20230128-094242-5iww3y.wpress
 note Don't forget to deactivate plugins really simple ssl and all in one seo if installed
-
+d)How to run this files.
 after installation refresh site and enter username alaa or ibrahim or heba with password 123456
