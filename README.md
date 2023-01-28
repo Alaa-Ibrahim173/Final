@@ -35,6 +35,7 @@ note : Make sure you have  hostig server locally like xamp or others
 After installation 
 
 5-download plugin all in one wp and import  its pro extensions from weadon website https://weadown.com/all-in-one-wp-migration-unlimited-extension-gpl1/
+
 6- then import our site file step.rf.gd-20230128-094242-5iww3y.wpress
 note Don't forget to deactivate plugins really simple ssl and all in one seo if installed
 
