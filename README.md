@@ -7,6 +7,13 @@ Team members
 
 3-Ibrahim Ali Ibrahim(project leader)
 
+Tools and Technologies
+
+WordPress / PHP /CSS
+
+![image](https://user-images.githubusercontent.com/76784342/215273448-89ca4eb7-d3e5-4736-ba9b-7f328a089c12.png)
+
+
 Installation process
 
 1-Download WordPress.zip and step.rf.gd-20230128-094242-5iww3y.wpress
