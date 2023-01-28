@@ -14,5 +14,10 @@ note : Make sure you have  hostig server locally like xamp or others
 
 3- open any browser write down localhost/folder_name after creating database in PHPadmin
 
-4-follow steps choose site language > add database name and user root >![Screenshot_13](https://user-images.githubusercontent.com/76784342/215267137-801ac366-a82d-4a43-b21b-cb3d459d6dc3.png)
-
+4-follow steps
+>choose site language 
+> add database name and user root 
+>make like this image
+![Screenshot_14](https://user-images.githubusercontent.com/76784342/215267211-37bbfa71-e334-423c-bcb8-e48f754c8fc9.png)
+After installation 
+5-download plugin all in one wp and its pro extensions from weadon website https://weadown.com/all-in-one-wp-migration-unlimited-extension-gpl1/
