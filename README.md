@@ -18,7 +18,7 @@ WordPress 6.1.1 / PHP 7 or higher / CSS
 a)How to install the website on another new computer in detail 
 ---------------------------------------------------------------
 
-1-Download WordPress.zip and step.rf.gd-20230128-094242-5iww3y.wpress
+1-Download WordPress.zip and step.rf.gd-20230128-225337-pkfxfa.wpress
 note : Make sure you have  hosting server locally like xamp or others
 
 (b)Where to put files. 
@@ -42,7 +42,7 @@ After installation
 
 5-download plugin all in one wp and import  its pro extensions from weadon website https://weadown.com/all-in-one-wp-migration-unlimited-extension-gpl1/
 
-6- then import our site file step.rf.gd-20230128-094242-5iww3y.wpress
+6- then import our site file step.rf.gd-20230128-225337-pkfxfa.wpress
 
 
 c)How to run this files.
