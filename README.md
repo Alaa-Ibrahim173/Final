@@ -19,7 +19,7 @@ a)How to install the website on another new computer in detail
 1-Download WordPress.zip and step.rf.gd-20230128-094242-5iww3y.wpress
 note : Make sure you have  hostig server locally like xamp or others
 
-2-uncompress wordpress files  in another folder(folder_name) in XAMPP\htdocs location (c)Where to put files. ).
+2-uncompress wordpress files  in another folder(folder_name) in XAMPP\htdocs location (b)Where to put files. ).
 
 3- open any browser write down localhost/folder_name after creating database in PHPadmin
 
@@ -29,7 +29,8 @@ note : Make sure you have  hostig server locally like xamp or others
 
 > add database name and user root
 
->make like this image
+>make like this image details
+
 ![Screenshot_14](https://user-images.githubusercontent.com/76784342/215267211-37bbfa71-e334-423c-bcb8-e48f754c8fc9.png)
 
 After installation 
@@ -37,6 +38,15 @@ After installation
 5-download plugin all in one wp and import  its pro extensions from weadon website https://weadown.com/all-in-one-wp-migration-unlimited-extension-gpl1/
 
 6- then import our site file step.rf.gd-20230128-094242-5iww3y.wpress
-note Don't forget to deactivate plugins really simple ssl and all in one seo if installed
-d)How to run this files.
+
+
+c)How to run this files.
+
 after installation refresh site and enter username alaa or ibrahim or heba with password 123456
+
+Note Don't forget to deactivate plugins really simple ssl and all in one seo if installed
+
+
+---------------------------------------------------------------------------------------
+Theme description  and how to install it
+we tried woostify free theme first but it didn't suit our site so we replaced it with basel theme from https://weadown.com/basel-responsive-ecommerce-theme-gpl1/
