@@ -17,11 +17,13 @@ WordPress 6.1.1 / PHP 7 or higher / CSS
 
 a)How to install the website on another new computer in detail 
 ---------------------------------------------------------------
+
 1-Download WordPress.zip and step.rf.gd-20230128-094242-5iww3y.wpress
 note : Make sure you have  hosting server locally like xamp or others
 
 (b)Where to put files. 
 ----------------------
+
 2-uncompress wordpress files  in another folder(folder_name) in XAMPP\htdocs location 
 
 3- open any browser write down localhost/folder_name after creating database in PHPadmin
