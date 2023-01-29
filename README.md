@@ -1,5 +1,5 @@
 # Final project
-
+-----------------------------------------------------------------------------------------------------------------------------------------------
 Team members
 ------------
 1-Alaa Ibrahim Mohamed
@@ -7,7 +7,7 @@ Team members
 2-Heba Adel Saber
 
 3-Ibrahim Ali Ibrahim(project leader)
-
+------------------------------------------------------------------------------------------------------------------------------------------------
 Tools and Technologies
 ----------------------
 WordPress 6.1.1 / PHP 7 or higher / CSS
@@ -16,6 +16,7 @@ WordPress 6.1.1 / PHP 7 or higher / CSS
 
 Demo video https://drive.google.com/file/d/1I4hxTIynOJW8zMNJz0N9GSNO8hLqAi6f/view?usp=sharing
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 a)How to install the website on another new computer in detail 
 ---------------------------------------------------------------
 
@@ -53,12 +54,12 @@ after installation refresh site and enter username alaa or ibrahim or heba with 
 Note Don't forget to deactivate plugins really simple ssl, all in one seo and slim seo if installed
 if you want to open site again open any browser write down localhost/folder_name/wp-admin
 
-----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 Theme description  and how to install it
 -----------------------------------------
 we tried woostify free theme first and import one of its free demos called urban  but it didn't suit our site so we replaced it with basel theme from https://weadown.com/basel-responsive-ecommerce-theme-gpl1/
 After downloading we import this theme then install demo with our required plugins
--------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Plugins used 
 ------------
@@ -77,4 +78,4 @@ Plugins used
 >Weglot Translate (trial for 10 days and max 2000 words)
 >WooCommerce
 >XTEMOS Post Types plugin
->Slim SEO
+
