@@ -49,7 +49,7 @@ c)How to run this files.
 -----------------------
 after installation refresh site and enter username alaa or ibrahim or heba with password 123456
 
-Note Don't forget to deactivate plugins really simple ssl and all in one seo if installed
+Note Don't forget to deactivate plugins really simple ssl, all in one seo and slim seo if installed
 if you want to open site again open any browser write down localhost/folder_name/wp-admin
 
 ----------------------------------------------------------------------------------------------
