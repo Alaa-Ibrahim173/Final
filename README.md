@@ -61,18 +61,19 @@ After downloading we import this theme then install demo with our required plugi
 
 Plugins used 
 ------------
-All in One SEO 
-All-in-One WP Migration
-Contact Form 7
-Direct Checkout | Quick View | Buy Now For WooCommerce
-Elementor
-Essential Addons for Elementor
-Flamingo
-JVM rich text icons
-Product Filter by WooBeWoo and its pro version
-Product Variation Swatches for Woocommerce
-Really Simple SSL
-SMNTCS Quantity Increment Buttons for WooCommerce
-Weglot Translate (trial for 10 days and max 2000 words)
-WooCommerce
-XTEMOS Post Types plugin
+>All in One SEO 
+>All-in-One WP Migration
+>Contact Form 7
+>Direct Checkout | Quick View | Buy Now For WooCommerce
+>Elementor
+>Essential Addons for Elementor
+>Flamingo
+>JVM rich text icons
+>Product Filter by WooBeWoo and its pro version
+>Product Variation Swatches for Woocommerce
+>Really Simple SSL
+>SMNTCS Quantity Increment Buttons for WooCommerce
+>Weglot Translate (trial for 10 days and max 2000 words)
+>WooCommerce
+>XTEMOS Post Types plugin
+>Slim SEO
